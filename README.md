@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandkumar10021
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack Java Development
+- 🌱 I’m currently looking for new job opportunities
 - 💞️ I’m looking to collaborate on Machine learning , Android platform based applications, web development
 - 📫 How to reach me ->anandkumarcse101@gmail.com
 
